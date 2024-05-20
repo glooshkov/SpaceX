@@ -1,0 +1,3 @@
+/.venv/
+/frontend/test-task/node_modules/
+/nginx/nginx-test.txt
