@@ -3,7 +3,7 @@
 > [!TIP]  
 > [Ссылка](https://glushkovandrey.pythonanywhere.com/) для просмотра на сервере
 
-<img src="[https://github.com/glooshkov/SpaceX-elon/blob/master/spacex_elon.png](https://github.com/glooshkov/SpaceX/blob/master/spacex_elon.png)"
+<img src="https://github.com/glooshkov/SpaceX-elon/blob/master/spacex_elon.png"
      alt="example" width="100%">
 
 ТЗ:
